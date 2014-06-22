@@ -5,6 +5,7 @@ The data has been downloaded from https://d396qusza40orc.cloudfront.net/getdata%
 
 ## Columns
 Column names are described in the README.txt file of the source data mentioned above with 2 exceptions that were added:
+
 1. column names were 'cleaned' by comverting all to lower case and removing symbols like parentheses.
 
 2. 2 columns were added:
