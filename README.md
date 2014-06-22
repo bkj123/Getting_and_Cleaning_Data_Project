@@ -22,4 +22,5 @@ This repository covers a course project of a Coursera Johns Hopkins' course call
 	3. script ran in 90 seconds (Intel i5/2.5 Ghz, 8 Gb memory, Win7-64 Pro).  60 seconds of this time was downloading and uncompressing the compressed source data.
 
 # Output: 
-- The avg_data.txt file shows averages for columns covering means and standard deviation data.
+1. average_data.txt: text file containing tidy data with the average of every column based on a mean or standard deviatioin
+2. merged_SYX.txt: text file used to create average_data.txt.  It combines subject, Y, and X data test and training data.
