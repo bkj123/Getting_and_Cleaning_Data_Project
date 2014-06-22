@@ -1,7 +1,7 @@
 Getting_and_Cleaning_Data_Project
 =================================
 # Introduction
-This repository covers course project of a Coursera Johns Hopkins' course called 'Getting and Cleaning Data'.  It accesseses and manipulates Smartphone data from Samsung.
+This repository covers a course project of a Coursera Johns Hopkins' course called 'Getting and Cleaning Data'.  It accesseses and manipulates Smartphone data from Samsung.
 
 
 # Execution 
