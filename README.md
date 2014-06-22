@@ -7,6 +7,7 @@ This repository covers a course project of a Coursera Johns Hopkins' course call
 # Execution 
 - based on Windows 7
 - Run run_analysis.R which will download and unzip the source data and then manipulate it.
+- run_analysis.R comments give additional details over this document.
 
 ## Major areas of execution
 0. download file and extract data to working directory. Ensure plyr library is loaded for ddply.
@@ -14,7 +15,7 @@ This repository covers a course project of a Coursera Johns Hopkins' course call
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names. 	
-5. 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+5. Creates a tidy data set with the average of each variable for each activity and each subject.
 
 ## Notes: 
 1. downloaed zip file (dataset.zip) is ~ 61Mb compressed and ~269Mb uncompressed (UCI HAR Dataset folder).
