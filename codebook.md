@@ -9,6 +9,7 @@ Column names are described in the README.txt file of the source data mentioned a
 1. column names were 'cleaned' by comverting all to lower case and removing symbols like parentheses.
 
 2. 2 columns were added:
+ 
 	a. subjectnumber: a string identifying the experiment subject
 	b. activity: a string covering a subject's activity during data collection
 
