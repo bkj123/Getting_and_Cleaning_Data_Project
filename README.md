@@ -1,7 +1,7 @@
 Getting_and_Cleaning_Data_Project
 =================================
 # Introduction
-This repository covers a course project of a Coursera Johns Hopkins' course called 'Getting and Cleaning Data'.  It accesseses and manipulates Smartphone data from Samsung.
+This repository covers a course project of a Coursera Johns Hopkins' course called 'Getting and Cleaning Data'.  It accesseses and manipulates Smartphone data from Samsung (run_analysis.R)
 
 
 # Execution 
@@ -9,7 +9,7 @@ This repository covers a course project of a Coursera Johns Hopkins' course call
 - Run run_analysis.R which will download and unzip the source data and then manipulate it.
 - run_analysis.R comments give additional details over this document.
 
-## Major areas of execution
+## run_analysis.R  areas of execution
 0. download file and extract data to working directory. Ensure plyr library is loaded for ddply.
 1. Merges the training and the test sets to create one data set. 
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
