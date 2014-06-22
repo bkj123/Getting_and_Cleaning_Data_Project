@@ -13,4 +13,4 @@ Column names are described in the README.txt file of the source data mentioned a
 
 ## Output
 1. average_data.txt: text file containing tidy data with the average of every column based on a mean or standard deviatioin
-2. merged_SYX: text file used to create average_data.txt.  It combines subject, Y, and X data test and training data.
+2. merged_SYX.txt: text file used to create average_data.txt.  It combines subject, Y, and X data test and training data.
